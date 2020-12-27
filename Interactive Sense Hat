@@ -1,6 +1,6 @@
 #Sense Hat Sensor Script!
 #Made By Michael Keleti
-#10 Jan. 2016
+#10 Jan. 2016 
 print("Starting Program")
 #Importing modules
 from sense_hat import SenseHat
